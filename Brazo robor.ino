@@ -1,5 +1,5 @@
 // Made by Toomas633
-// Still in progress project, code updates can be found in github: https://github.com/Toomas633/Arduino-Robotic-Arm
+// Still in progress cosas que se le agregan project, code updates can be found in github: https://github.com/Toomas633/Arduino-Robotic-Arm
 // Reddit thread: https://www.reddit.com/r/arduino/comments/lv9i9n/my_first_ever_arduino_uno_powered_project/?utm_source=share&utm_medium=web2x&context=3
 //<>
 #include <SoftwareSerial.h>
